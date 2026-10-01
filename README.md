@@ -248,6 +248,12 @@ The current system can be extended with several additional features:
 - Improve document reranking using advanced reranking models.
 - Add user authentication and personalized recipe recommendations.
 - Deploy the application on a cloud platform for public access.
+
+## Project Team
+
+- Rubait Islam Jami
+- Fabiha Busra
+
 ## Acknowledgements
 ```
 This project was developed as the final project for the **LLM Zoomcamp** organized by **DataTalks.Club**.
@@ -259,3 +265,4 @@ The application uses:
 - Grafana for monitoring
 - SQLite for logging conversations
 ```
+
